@@ -1,0 +1,36 @@
+#maintable {
+    width: 100%;
+}
+
+#calender {
+
+    margin-left:auto;
+    margin-right: 75px;
+    
+}
+
+.stackable{
+    width:900px;
+    height:300px;
+}
+
+.Carouseldemo {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 35vh;
+    margin-left: 5%;
+    margin-top: 5%;
+  }
+
+  .react-calendar {
+    width: 350px;
+    max-width: 100%;
+    background: black;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.500em;
+  }
+
+  
